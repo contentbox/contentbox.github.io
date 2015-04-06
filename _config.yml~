@@ -10,8 +10,3 @@ github_username:  contentbox
 
 # Build settings
 markdown: kramdown
-
-# Custom
-timezone: Asia/Taipei
-
-
